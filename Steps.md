@@ -10,3 +10,7 @@ npm install react-script)
 
 1.) Create AWS IAM Role >> Secret Access KEY + Access ID >> User Pool Craeted >> Your USER POOL is having 
 unique USER ID ( Note down ) >> hence forth your OS is connected with AWS Cloud 
+
+#Step 3 : 
+
+1.) Code the Component , Theme , Public & Private route part for working in frontend code as per mentioned in the first step of the algoritm 
