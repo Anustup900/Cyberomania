@@ -14,3 +14,12 @@ unique USER ID ( Note down ) >> hence forth your OS is connected with AWS Cloud
 #Step 3 : 
 
 1.) Code the Component , Theme , Public & Private route part for working in frontend code as per mentioned in the first step of the algoritm 
+
+2.) Complete the frontend code of components >> Login /sign up screen etc // excluding the integration system 
+
+// Completion of Project Frontend 
+
+#Step 4 (Backend) : 
+
+1.) Integrate AUTH API from AWS // dealing with the login ,sign up , confirmation Mail , OTP system 
+
