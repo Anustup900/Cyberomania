@@ -23,3 +23,7 @@ Mentees keep steps updated
 
 """
 
+After step 4 Algo step 1 done 
+
+Step 2: 
+
