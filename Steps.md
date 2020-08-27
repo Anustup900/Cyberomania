@@ -21,5 +21,14 @@ unique USER ID ( Note down ) >> hence forth your OS is connected with AWS Cloud
 
 #Step 4 (Backend) : 
 
-1.) Integrate AUTH API from AWS // dealing with the login ,sign up , confirmation Mail , OTP system 
+1.) Integrate AWS Amplify 
+
+2.) Integrate AWS API Gateway >> Auth API // dealing with the login ,sign up , confirmation Mail , OTP system 
+
+3.) Integrate AWS Lambda // aws add lambda 
+
+4.) Integrate AWS S3 storage // name it by your convinence 
+
+#step 5 :
+
 
