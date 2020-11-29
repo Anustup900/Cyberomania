@@ -1,4 +1,4 @@
-# `High Level Design 📄 of Psipher 🔐`
+# `High Level Design 📄 of Cyberomania 🔐`
 ***
 ## `For Deployment Purpose`
 ![Cyberomania_Complete](CyberomaniaComplete.png)
@@ -22,6 +22,6 @@
 ***
 
 ## `For Testing Purpose`
-![Psipher_Swagger](PsipherSwagger.png)
+![Cyberomania_Swagger](Cyberomania.png)
 
 - **SwaggerUI** - Used for API testing and documentation for our backend. This resides on Lambda.
