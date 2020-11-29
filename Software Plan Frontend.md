@@ -1,7 +1,7 @@
 # `High Level Design 📄 of Psipher 🔐`
 ***
 ## `For Deployment Purpose`
-![Psipher_Complete](PsipherComplete.png)
+![Cyberomania_Complete](CyberomaniaComplete.png)
 
 ##### This architecture is fully based on serverless model, hence there is very less maintenance cost and cost effective.
 
