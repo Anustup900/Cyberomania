@@ -1,4 +1,4 @@
-# Psipher Backend Testing using Swagger - UI 🔨
+# Cyberomania Backend Testing using Swagger - UI 🔨
 
 ### To view API documents locally.
 1. Run the backend application in terminal
@@ -25,7 +25,7 @@
 
 4. Now you can read the API documentation, view Models and examples for the API.
 
-  ![SwaggerImage](psipher_swagger_local.png)
+  
 ---
 
 ### To execute the deployed API on AWS
