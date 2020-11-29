@@ -1,4 +1,4 @@
-package com.psipher.application;
+package com.cyberomania.application;
 
 import org.apache.commons.lang.StringUtils;
 import org.springframework.boot.SpringApplication;
@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class PsipherApplication extends SpringBootServletInitializer {
+public class cyberomaniaApplication extends SpringBootServletInitializer {
     public static String SWAGGER_ENDPOINT;
 
     public static void main(String[] args) {
